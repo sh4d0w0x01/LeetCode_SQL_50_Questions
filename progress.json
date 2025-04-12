@@ -1,0 +1,18 @@
+[
+    {
+        "difficulty": "All",
+        "count": 3
+    },
+    {
+        "difficulty": "Easy",
+        "count": 3
+    },
+    {
+        "difficulty": "Medium",
+        "count": 0
+    },
+    {
+        "difficulty": "Hard",
+        "count": 0
+    }
+]
